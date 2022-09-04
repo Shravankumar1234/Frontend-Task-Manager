@@ -48,17 +48,9 @@ Go to the project directory
 ```bash
   cd Project - task_manager
 ```
-Run npm start on browser
+## Run npm start on browser
 
-## Screenshots
 
-![App Screenshot](file:///C:/Users/shravan%20kumar/Downloads/Screenshot%20(15).webp)
 
-![App Screenshot](file:///C:/Users/shravan%20kumar/Downloads/Screenshot%20(16).webp)
 
-![App Screenshot](file:///C:/Users/shravan%20kumar/Downloads/Screenshot%20(17).webp)
-
-![App Screenshot](file:///C:/Users/shravan%20kumar/Downloads/Screenshot%20(18)%20(1).webp)
-
-![App Screenshot](file:///C:/Users/shravan%20kumar/Downloads/Screenshot%20(20).webp)
 
