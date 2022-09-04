@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap:20px;
+  
+}
+.heading_div{
+     text-align: center;
+}
+h1{
+  color: rgb(184, 57, 57);
+}
+.Search_div{
+  margin-left: 70%;
+  
+
+}
+input{
+  width:60%;
+  height:30px;
+  border-radius: 10px;
+  border: 1px solid rgb(17, 17, 18);
+  outline: 0;
+  font-size: 18px;
+}

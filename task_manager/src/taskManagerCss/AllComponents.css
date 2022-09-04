@@ -1,0 +1,24 @@
+
+.Task_main_container{
+    margin: auto;
+    width: 97%;
+    margin-top: 20px;    
+}
+.Task1, .Task2,.Task3{
+ width:100%;
+ max-height: auto;
+ box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+ border-radius: 10px;
+ background-color: white;
+}
+
+h2{
+   color: rgb(152, 35, 35);
+   text-align: center;
+}
+.Task_inner_div{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+
+}
